@@ -1,0 +1,20 @@
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- No solid color to ensure only the border is visible -->
+    <solid android:color="@android:color/transparent" />
+
+    <!-- Border properties -->
+    <stroke
+        android:color="#000000"
+    android:width="2dp" />
+
+    <!-- Rounded corners (optional) -->
+    <corners android:radius="100dp" />
+
+    <!-- Padding to ensure the border is not too close to the content -->
+    <padding
+        android:left="4dp"
+        android:top="4dp"
+        android:right="4dp"
+        android:bottom="4dp" />
+</shape>

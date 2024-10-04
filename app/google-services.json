@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237667132226",
+    "project_id": "treeplantation-3dc6f",
+    "storage_bucket": "treeplantation-3dc6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237667132226:android:77268aad6d1e5ea69c9edb",
+        "android_client_info": {
+          "package_name": "com.example.treeplantation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMF05-BCoKgEGrOKoEcnG3k9prS9zwiT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

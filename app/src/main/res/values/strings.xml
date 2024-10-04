@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TreePlantation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Button</string>
+    <string name="pick_location_for_tree_planting_n_plant_trees_save_the_world">Pick location for tree planting \n Plant trees. Save the World</string>
+    <string name="plant_for_globe">Plant for Globe</string>
+    <string name="search_for_location">Search for Location</string>
+    <string name="pick_a_tree">Pick a Tree</string>
+    <string name="todo">TODO</string>
+    <string name="project">project</string>
+    <string name="site">Site</string>
+    <string name="submit">Submit</string>
+    <string name="eg_nashik_indira_nagar">eg: Nashik,Indira Nagar</string>
+    <string name="eg_tree_plantation_drive">eg: Tree Plantation Drive</string>
+    <string name="eg_abc_nagar">eg: ABC Nagar</string>
+    <string name="eg_top_soil_removal">eg: Top-Soil Removal</string>
+    <string name="eg_25_june_2024">eg: 25 June 2024</string>
+    <string name="intervention_date">Intervention Date</string>
+    <string name="location_name">Location Name</string>
+    <string name="intervention">Intervention</string>
+    <string name="intervention_type">Intervention Type</string>
+</resources>
